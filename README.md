@@ -24,7 +24,7 @@ python -m doctest wardial.py
 
 ## Test Badge
 
-[![Tests](https://github.com/yourusername/yourrepo/actions/workflows/tests.yml/badge.svg)](https://github.com/yourusername/yourrepo/actions/workflows/tests.yml)
+<img src="https://github.com/ryankim8/lab-wardialing/workflows/doctests/badge.svg" />
 
 ## DPRK IPs with Servers
 
