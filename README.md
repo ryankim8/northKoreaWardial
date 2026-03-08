@@ -1,4 +1,6 @@
-# Wardialing Lab
+# Wardialing North Korea
+
+![](https://github.com/ryankim8/northKoreaWardial/workflows/doctests/badge.svg)&nbsp;
 
 ## Description
 
@@ -21,10 +23,6 @@ To run the doctests:
 ```
 python -m doctest wardial.py
 ```
-
-## Test Badge
-
-![](https://github.com/ryankim8/lab-wardialing/workflows/doctests/badge.svg)&nbsp;
 
 ## DPRK IPs with Servers
 
